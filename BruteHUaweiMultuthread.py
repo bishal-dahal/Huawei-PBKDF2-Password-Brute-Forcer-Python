@@ -19,7 +19,7 @@ def check_password(password):
 expected_password = "a97cec2f738f3b851ccaa66cbd64621d70d1e1959b1283248210be80f1fd01af"
 salt = "92dcb571d06c2717d7f50849"
 
-# Start the total time counter
+# Start the total time counter:
 start_time_total = time.time()
 
 # Get the total number of lines
